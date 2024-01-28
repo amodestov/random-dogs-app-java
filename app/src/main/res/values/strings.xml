@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">random-dogs-app-java</string>
+    <string name="next_image">NEXT IMAGE</string>
+    <string name="a_dog_s_image">A dog\'s image</string>
+    <string name="internet_connection_lost">Internet connection lost</string>
 </resources>
